@@ -1,7 +1,7 @@
 ## Stats
 
 <a href="#">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&show_icons=true&theme=nightowl" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&show_icons=true&theme=nightowl" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass,scss&langs_count=10" />
