@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&show_icons=true&theme=nightowl" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass,scss&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&hide=sass,scss&langs_count=10" />
 </a>
 
 ## Languages
