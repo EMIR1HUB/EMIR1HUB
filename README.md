@@ -21,3 +21,6 @@
 
 
 ## Contact
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3&color=050505)](https://vk.com/emirsuleimanov)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E&color=050505)](https://www.instagram.com/luckyonekid)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=27A0D9&color=050505)](https://t.me/cokln)
