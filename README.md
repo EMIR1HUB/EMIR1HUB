@@ -1,5 +1,9 @@
 [![Header](https://github.com/EMIR1HUB/EMIR1HUB/blob/main/img/header.jpg)](https://vk.com/emirsuleimanov)
 
+### Hello👋 I'm junior proger!
+👀 [See my portfolio site](https://emir1hub.github.io/). It's minimalistic, but everything that is written there is !false.<br>
+⚡ I’m currently working on `C#` && work as a *Web Developer*
+
 ## Stats
 
 <a href="#">
