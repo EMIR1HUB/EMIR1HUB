@@ -6,11 +6,10 @@
 
 ## Stats
 
-<a href="#">
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&show_icons=true&theme=nightowl" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass,scss&langs_count=10" />
+<a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&show_icons=true&theme=nightowl&text_color=7dc4fa" alt="my github stats"  width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&theme=nightowl&text_color=7dc4fa" height="165">
+    </p>
 </a>
 
 ## Languages
