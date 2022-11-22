@@ -9,9 +9,8 @@
 <a>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&theme=nightowl&text_color=7dc4fa" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass&theme=nightowl&text_color=7dc4fa" height="165">
-    
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass&theme=nightowl&text_color=7dc4fa" height="165"/>
+  </p>
 </a>
 
 ## Languages and Tools
