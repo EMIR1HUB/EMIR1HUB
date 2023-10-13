@@ -24,6 +24,7 @@
 </a>
 
 <h2 align="center">Проекты</h2>
+
 - [Library_WebProject](https://github.com/EMIR1HUB/Library_WebProject) - Веб-приложение для выполнения основных функций библиотеки.
 (`Java`, `Spring MVC`, `Spring Boot`, `PostgreSQL`, `JdbcTemplate`, `DAO`, `Thymeleaf`, `Bootstrap`);
 <br><br>
