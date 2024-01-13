@@ -10,7 +10,7 @@
 
 <h2 align="center">Навыки</h2>
 
-* **Backend**: Java, Spring Framework, Spring Boot, Hibernate ORM, C#;
+* **Backend**: Java, Spring Framework(MVC, Boot, Data JPA, Security), Hibernate ORM, C#;
 * **Data**: PostgreSQL, MySQL, RabbitMQ;
 * **DevOps**: Git, Docker, Linux;
 * **Testing and assembly**: JUnit, Maven, Mockito;
