@@ -10,15 +10,15 @@
 
 <h2 align="center">Навыки</h2>
 
-* **Backend**: Java, Spring Framework(MVC, Boot, Data JPA, Security), Hibernate ORM, C#;
+* **Backend**: Java Core, Spring Framework(MVC, Boot, Data JPA, Security), Hibernate ORM, C#;
 * **Data**: PostgreSQL, MySQL, RabbitMQ;
 * **DevOps**: Git, Docker, Linux;
 * **Testing and assembly**: JUnit, Maven, Mockito;
-* **Frontend**: HTML, CSS(Sass, Scss), Bootstrap, Thymeleaf, Gulp.
+* **Frontend**: HTML, CSS, Bootstrap, Thymeleaf, JavaScript.
 
 <a>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&theme=nightowl&text_color=7dc4fa" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=EMIR1HUB&theme=nightowl&text_color=7dc4fa" width="380"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMIR1HUB&layout=compact&hide=sass&theme=nightowl&text_color=7dc4fa" height="165"/>
   </p>
 </a>
