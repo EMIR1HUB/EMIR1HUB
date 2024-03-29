@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://emir1hub.github.io/">Portfolio</a>
   <a href="emir230301@gmail.com">Email</a>
-  <a href="https://t.me/cokln">Telegram</a>
-  <a href="https://www.instagram.com/luckyonekid">Instagram</a>
+<!--   <a href="https://t.me/cokln">Telegram</a>
+  <a href="https://www.instagram.com/luckyonekid">Instagram</a> -->
 </p>
 
 <h2 align="center">Навыки</h2>
